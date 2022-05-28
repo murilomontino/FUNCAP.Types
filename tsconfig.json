@@ -1,0 +1,24 @@
+{
+    // Mude isso para corresponder ao seu projeto
+    "include": ["types/**/*"],
+    "compilerOptions": {
+      // Diz para o TypeScript ler arquivos JS.
+      // Normalmente, seriam ignorados como arquivos fonte
+      "allowJs": true,
+      // Gerar arquivos d.ts
+      "declaration": true,
+      // A compilação só gerará arquivos
+      // d.ts na saída
+      "emitDeclarationOnly": true,
+      "rootDir": ".",
+      "baseUrl": ".",
+      "paths": {
+        "@/types/*": [
+          "./types/*"
+        ],
+        "@/types": [
+          "./types/index.ts"
+        ],
+      },
+    }
+  }

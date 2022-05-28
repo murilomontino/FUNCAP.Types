@@ -1,0 +1,15 @@
+{
+  "name": "@types/mapa-cultural",
+  "version": "1.0.0",
+  "main": "source",
+  "types": "types",
+  "repository": "https://github.com/murilomontino/FUNCAP.Types.git",
+  "author": "murilomontino <murilomontinojr@hotmail.com>",
+  "scripts": {
+    "build": "tsc --project tsconfig.json"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
+}

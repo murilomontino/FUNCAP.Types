@@ -1,0 +1,17 @@
+export declare type TypeImgCapa = 'image/png' | 'image/jpeg' | 'image/jpg';
+export declare type ExtImgCapa = 'png' | 'jpg' | 'jpeg';
+export declare type ContentMusic = 'album' | 'single' | 'interprete';
+export * from './getters/albums';
+export * from './getters/books';
+export * from './setters/album';
+export * from './setters/books';
+export * from './setters/products';
+export * from './setters/tracks';
+export * from './setters/exhibition';
+export * from './getters/documents';
+export * from './getters/exhibitions';
+export * from './getters/videos';
+export * from './setters/videos';
+export * from './getters/youtube';
+export * from './setters/youtube';
+export * from './setters/documents';
