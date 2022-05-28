@@ -1,5 +1,5 @@
 {
-  "name": "@types/funcap",
+  "name": "types-funcap",
   "version": "1.0.0",
   "main": "lib/index.js",
   "types": "types/index.d.ts",
