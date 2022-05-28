@@ -1,7 +1,7 @@
 {
   "name": "@types/mapa-cultural",
   "version": "1.0.0",
-  "main": "source",
+  "main": "types",
   "types": "types",
   "repository": "https://github.com/murilomontino/FUNCAP.Types.git",
   "author": "murilomontino <murilomontinojr@hotmail.com>",
